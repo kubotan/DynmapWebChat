@@ -1,0 +1,7 @@
+name: DynmapWebChat
+version: 1.2
+api-version: 1.15
+description: DynmapWebChat
+author: kubotan
+main: space.gorogoro.dynmapwebchat.DynmapWebChat
+softdepend: [dynmap, LunaChat, mcMMO]
